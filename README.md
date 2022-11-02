@@ -3,7 +3,7 @@
 <p>The current algorithmus was designed to segment images in real-time inside a 3D-Icub-Simulator with python. It detects the arm of the iCub-robot as well as the object
 on the images delivered by the cameras placed in the eyes.</p>
 
-<img src="./outputs/example.gif" alt="image" width="500" height="333">
+<img src="./tests/outputs/example.gif" alt="image" width="500" height="333">
 
 
 ## Dependencies
